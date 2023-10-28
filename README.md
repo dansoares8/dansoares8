@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @dansoares8
-- 👀 I’m interested in Dev Front-End and Full Stack Web applications.
-- 🌱 I’m currently learning HTML, CSS, PHP, Javascript, Github and others technologies.
-- 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me: my personal mail is danielsoares8296@gmail.com | My personal instagram is @dan_soares8 follow me.
+Profile in English (EU):
+- Hello, I'm @dansoares8
+- I'm a full stack web developer.
+- I am currently developing my skills in HTML, CSS, PHP, Javascript, Java, Python, Github and other technologies.
+- How to contact me: my personal email is danielsoares8296@gmail.com | My personal Instagram is @dan_soares8 follow me.
 
-<!---
-dansoares8/dansoares8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Perfil em Português (PT-BR):
+- Olá, sou @dansoares8
+- Sou desenvolvedor web full stack.
+- Atualmente estou evoluindo minhas habilidades em HTML, CSS, PHP, Javascript, Java, Python, Github e outras tecnologias.
+- Como entrar em contato comigo: meu e-mail pessoal é danielsoares8296@gmail.com | Meu instagram pessoal é @dan_soares8 siga-me.

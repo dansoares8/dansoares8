@@ -4,6 +4,7 @@
 - How to contact me: my professional email is danielsoares8296@gmail.com.
 
 
+
 - Olá, sou Daniel S. Gomes.
 - Sou desenvolvedor web full stack.
 - Atualmente estou evoluindo minhas habilidades em HTML, CSS (Bootstrap, Angular), PHP (Laravel 11), Javascript, C# (ASP.NET Core) e outras tecnologias.
